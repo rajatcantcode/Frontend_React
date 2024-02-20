@@ -3,7 +3,7 @@ import Card from "./Components/Card";
 function main() {
   return (
     <>
-      <Card></Card>
+      <Card />
     </>
   );
 }
